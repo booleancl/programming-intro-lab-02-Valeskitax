@@ -13,3 +13,6 @@ Clona el siguiente respositorio y llévalo a la nube con Heroku
 Cuando logres desplegar la aplicación en producción saca un print de pantalla y agrégalo a este README con un `commit` y luego `push`.
 
 ¡Recuerda siempre trabajar en equipo!
+## mi aplicación en Heroku
+
+![alt text for screen readers](/aplicacionheroku.png "mi aplicación en Heroku")
